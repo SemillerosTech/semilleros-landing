@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb7e8b02.css",
+    "main.js": "/static/js/main.b2d36d46.js",
+    "static/js/453.a8d6bd65.chunk.js": "/static/js/453.a8d6bd65.chunk.js",
+    "static/media/10_img paralax.png": "/static/media/10_img paralax.24e08e44d262e267db58.png",
+    "static/media/17_imagen ninos.png": "/static/media/17_imagen ninos.23625d9d63794b124e25.png",
+    "static/media/06_img manitas.png": "/static/media/06_img manitas.9d4e5254217fe3db17f2.png",
+    "static/media/05_img jemga.png": "/static/media/05_img jemga.9be9b398cafd1aadd9fa.png",
+    "static/media/15_img semillas terapia C.png": "/static/media/15_img semillas terapia C.f5d6d41231ce8be2f2ce.png",
+    "static/media/09_ img semillas terapia A.png": "/static/media/09_ img semillas terapia A.b638ab8b59492eb857b6.png",
+    "static/media/11_img semillas terapia B.png": "/static/media/11_img semillas terapia B.d2fbc0e383479661e6dc.png",
+    "static/media/18_imagen nina.png": "/static/media/18_imagen nina.e62ac68237c80ddfdaf2.png",
+    "static/media/19_imagen ninos globo.png": "/static/media/19_imagen ninos globo.8f38644af08c58ba1c94.png",
+    "static/media/03_logo semilleros_azul.svg": "/static/media/03_logo semilleros_azul.0a60d24e0800ad5a3356b9fe824f0e98.svg",
+    "static/media/20_logo semilleros blanco.svg": "/static/media/20_logo semilleros blanco.63c4bab57d6581c9bb88b2b42bb2bcab.svg",
+    "static/media/01_logo nav bar.svg": "/static/media/01_logo nav bar.761bbe36751cad451a3330860cc0a415.svg",
+    "static/media/13_cintillo aqua.svg": "/static/media/13_cintillo aqua.58ef76de87467f3f4ae3d476bf8ea8f5.svg",
+    "static/media/02_ventana palabras.svg": "/static/media/02_ventana palabras.fc97c883e05e806b778fd80f22bf63be.svg",
+    "static/media/04_cintillo azul.svg": "/static/media/04_cintillo azul.aba9c9479c053e99b4bb3bc25ca48ac8.svg",
+    "static/media/07_vector manos.svg": "/static/media/07_vector manos.7de7f392f96c955039406cf4134038af.svg",
+    "static/media/12_icon onditas.svg": "/static/media/12_icon onditas.b0039a11e8fa949547ccff77dda79bca.svg",
+    "static/media/16_cintillo palabras.svg": "/static/media/16_cintillo palabras.4b5c7efe270630fd4d6ea0a5def7b2c8.svg",
+    "index.html": "/index.html",
+    "static/media/08_semillas desarrollo.svg": "/static/media/08_semillas desarrollo.a49a8e4e070f11061d825a2f96197a34.svg",
+    "main.cb7e8b02.css.map": "/static/css/main.cb7e8b02.css.map",
+    "main.b2d36d46.js.map": "/static/js/main.b2d36d46.js.map",
+    "453.a8d6bd65.chunk.js.map": "/static/js/453.a8d6bd65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7e8b02.css",
+    "static/js/main.b2d36d46.js"
+  ]
+}
