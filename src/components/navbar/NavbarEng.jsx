@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import IconSemilleros from "../../assets/icons/01_logo nav bar.svg";
 
-const Navbar = () => {
+const NavbarEng = () => {
   const navigate = useNavigate();
 
   return (
@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="mx-auto">
           <div className="flex justify-end items-center">
             <div className="flex absolute top-0 left-0">
-              <span className="cursor-pointer" onClick={() => navigate("/")}>
+              <span className="cursor-pointer" onClick={() => navigate("/en")}>
                 <img
                   className="w-[64px] md:w-[90px] xl:w-[120px]"
                   src={IconSemilleros}
@@ -23,27 +23,27 @@ const Navbar = () => {
                 <button
                   className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
                   type="button"
-                  onClick={() => navigate("/")}
-                >
-                  ¿Quienes somos?
-                </button>
-              </div>
-              <div>
-                <button
-                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
-                  type="button"
-                  onClick={() => navigate("/contact")}
-                >
-                  Contacto
-                </button>
-              </div>
-              <div>
-                <button
-                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
-                  type="button"
                   onClick={() => navigate("/en")}
                 >
-                  ENGLISH
+                  About Us
+                </button>
+              </div>
+              <div>
+                <button
+                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
+                  type="button"
+                  onClick={() => navigate("/contact-en")}
+                >
+                  Contact
+                </button>
+              </div>
+              <div>
+                <button
+                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
+                  type="button"
+                  onClick={() => navigate("/")}
+                >
+                  ESPAÑOL
                 </button>
               </div>
             </div>
@@ -54,4 +54,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavbarEng;
