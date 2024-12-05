@@ -18,7 +18,7 @@ const Navbar = () => {
                 />
               </span>
             </div>
-            <div className="flex items-center justify-end space-x-3 md:space-x-7 pr-0 md:pr-10">
+            <div className="flex items-center justify-end space-x-0 md:space-x-7 pr-0 md:pr-10">
               <div>
                 <button
                   className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
