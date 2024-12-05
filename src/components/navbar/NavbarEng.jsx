@@ -39,11 +39,17 @@ const NavbarEng = () => {
               </div>
               <div>
                 <button
-                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold"
+                  className="px-5 py-10 text-base md:text-lg text-semilleros-blue font-semibold flex"
                   type="button"
                   onClick={() => navigate("/")}
                 >
-                  ESPAÑOL
+                  ES
+                  <img
+                    className="pl-2"
+                    src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Mexico_flag_icon.svg"
+                    alt=""
+                    width={35}
+                  />
                 </button>
               </div>
             </div>
